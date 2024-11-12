@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/bottom_btn1"
+        android:title="HOME" />
+    <item
+        android:id="@+id/Menu"
+        android:icon="@drawable/baseline_restaurant_menu_24"
+        android:title="MENU" />
+    <item
+        android:id="@+id/Pesanan"
+        android:icon="@drawable/baseline_shopping_cart_checkout_24"
+        android:title="PESANAN" />
+    <item
+        android:id="@+id/Histori"
+        android:icon="@drawable/baseline_history_24"
+        android:title="Histori" />
+</menu>

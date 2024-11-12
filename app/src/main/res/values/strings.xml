@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-KANTIN</string>
+    <string-array name="kategori">
+        <item>Pilih Kategori</item>
+        <item>Makanan</item>
+        <item>Minuman</item>
+    </string-array>
+</resources>
