@@ -4,6 +4,8 @@
 
 Project Implements with java, MySQL, And Midtrans
 * Use Ngrok for local database server
+* Copy PHP folder to you xampp path, and upload database.
+* *Happy To use :)
 
 **FITUR**
 - [x] Android Only
