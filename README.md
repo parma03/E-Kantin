@@ -3,6 +3,7 @@
 ![Alt text](image.png)
 
 Project Implements with java, MySQL, And Midtrans
+* Use Ngrok for local database server
 
 **FITUR**
 - [x] Android Only
